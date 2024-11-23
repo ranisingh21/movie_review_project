@@ -64,7 +64,7 @@ box-sizing:border-box;
 }
 
 .header_image{
- width: 60px;
+ width: 65px;
  height: 65px;
  float:left;
 }
@@ -84,8 +84,8 @@ img{
 }
 
 .movie_row{
- width:860px;
- height:380px;
+ width:840px;
+ height:340px;
  float:right;   
 }
 
@@ -111,8 +111,8 @@ img{
 }
 
 .likethumb{
-  width: 50px;
-  height: 50px;
+  width: 40px;
+  height: 40px;
   float:left;
 }
 
@@ -129,8 +129,8 @@ img{
 }
 
 .dislikethumb{
-  width:60px;
-  height:60px;
+  width:40px;
+  height:40px;
   float:left;
   margin-left:20px
 }
@@ -140,8 +140,8 @@ p {
  margin-bottom:8px;
 }
 .delete{
-  width:50px;
-  height:50px;
+  width:30px;
+  height:30px;
   float:right;
 }
 .addmovie{
